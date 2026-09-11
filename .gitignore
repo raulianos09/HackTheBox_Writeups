@@ -1,0 +1,29 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/appearance.json
+
+# Trash
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary/editor files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Sensitive files
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+credentials.*
+secrets.*
