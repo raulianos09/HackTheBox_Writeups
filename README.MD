@@ -4,11 +4,12 @@
 
 ## 🗂️ Machines
 
-|Machine|Difficulty|OS|Status|
-|:--|:-:|:-:|:-:|
-|🛰️ [[Nexus]]|🟢 Easy|🐧 Linux|✅ Rooted|
-|🌐 [[TwoMillion]]|🟢 Easy|🐧 Linux|✅ Rooted|
-|🔭 [[Orion]]|🟢 Easy|🐧 Linux|✅ Rooted|
+| Machine        | Difficulty |    OS    |  Status  |
+| :------------- | :--------: | :------: | :------: |
+|  [[Nexus]]     |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
+| [[TwoMillion]] |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
+| [[Orion]]      |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
+| [[Kobold]]     |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
 
 ---
 
