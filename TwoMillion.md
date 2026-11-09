@@ -1,13 +1,9 @@
 # Hack The Box — 2Million
 
-> **Difficulty:** Easy
-> 
-> **OS:** Linux
-> 
-> **IP:** `10.129.229.66`
-> 
+> **Difficulty:** Easy  
+> **OS:** Linux  
+> **IP:** `10.129.229.66`  
 > **Domain:** `2million.htb`
-
 ## 1. Initial Recon
 
 ### Add the Host to `/etc/hosts`

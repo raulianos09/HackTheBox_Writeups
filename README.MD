@@ -11,12 +11,13 @@
 | [[Orion]]      |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
 | [[Kobold]]     |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
 | [[Reactor]]    |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
+| [[Silentium]]  |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
 
 ---
 
 ## 🏆 Progress
 
-**5 machines rooted** 🎯
+**6 machines rooted** 🎯
 
 ---
 
