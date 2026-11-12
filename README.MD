@@ -12,12 +12,13 @@
 | [[Kobold]]     |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
 | [[Reactor]]    |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
 | [[Silentium]]  |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
+| [[Facts]]      |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
 
 ---
 
 ## 🏆 Progress
 
-**6 machines rooted** 🎯
+**7 machines rooted** 🎯
 
 ---
 
