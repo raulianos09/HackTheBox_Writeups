@@ -13,12 +13,15 @@
 | [[Reactor]]    |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
 | [[Silentium]]  |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
 | [[Facts]]      |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
+| [[Nibbles]]    |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
+| [[Keeper]]     |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
+| [[Knife]]      |  🟢 Easy   | 🐧 Linux | ✅ Rooted |
 
 ---
 
 ## 🏆 Progress
 
-**7 machines rooted** 🎯
+**10 machines rooted** 🎯
 
 ---
 
